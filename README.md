@@ -16,3 +16,8 @@ $ go mod download
 ```sh
 $ go run main.go
 ```
+
+For build app
+```sh
+$ go build
+```
